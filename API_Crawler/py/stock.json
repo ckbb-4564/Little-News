@@ -1,0 +1,728 @@
+{
+    "SNDL" : [
+        "Sundial Growers Inc."
+    ],
+    "GE" : [
+        "General Electric Company"
+    ],
+    "NIO" : [
+        "NIO Limited"
+    ],
+    "AMC" : [
+        "AMC Entertainment Holdings, Inc."
+    ],
+    "ZOM" : [
+        "Zomedica Corp."
+    ],
+    "AAPL" : [
+        "Apple Inc."
+    ],
+    "F" : [
+        "Ford Motor Company"
+    ],
+    "T" : [
+        "AT&T Inc."
+    ],
+    "PLTR" : [
+        "Palantir Technologies Inc."
+    ],
+    "AAL" : [
+        "American Airlines Group Inc."
+    ],
+    "RIDE" : [
+        "Lordstown Motors Corp."
+    ],
+    "BAC" : [
+        "Bank of America Corporation"
+    ],
+    "NOK" : [
+        "Nokia Corporation"
+    ],
+    "TLRY" : [
+        "Tilray, Inc."
+    ],
+    "VIAC" : [
+        "ViacomCBS Inc."
+    ],
+    "ITUB" : [
+        "Itaú Unibanco Holding S.A."
+    ],
+    "BA" : [
+        "The Boeing Company"
+    ],
+    "FCEL" : [
+        "FuelCell Energy, Inc."
+    ],
+    "TSLA" : [
+        "Tesla, Inc."
+    ],
+    "AMD" : [
+        "Advanced Micro Devices, Inc."
+    ],
+    "CCL" : [
+        "Carnival Corporation & plc"
+    ],
+    "CAN" : [
+        "Canaan Inc."
+    ],
+    "GM" : [
+        "General Motors Company"
+    ],
+    "WFC" : [
+        "Wells Fargo & Company"
+    ],
+    "NNDM" : [
+        "Nano Dimension Ltd."
+    ],
+    "M" : [
+        "Macy's, Inc."
+    ],
+    "RIOT" : [
+        "Riot Blockchain, Inc."
+    ],
+    "VALE" : [
+        "Vale S.A."
+    ],
+    "PBR" : [
+        "Petróleo Brasileiro S.A. - Petrobras"
+    ],
+    "BB" : [
+        "BlackBerry Limited"
+    ],
+    "GME" : [
+        "GameStop Corp."
+    ],
+    "XPEV" : [
+        "XPeng Inc."
+    ],
+    "JD" : [
+        "JD.com, Inc."
+    ],
+    "X" : [
+        "United States Steel Corporation"
+    ],
+    "SNAP" : [
+        "Snap Inc."
+    ],
+    "NCLH" : [
+        "Norwegian Cruise Line Holdings Ltd."
+    ],
+    "MSFT" : [
+        "Microsoft Corporation"
+    ],
+    "TEVA" : [
+        "Teva Pharmaceutical Industries Limited"
+    ],
+    "VZ" : [
+        "Verizon Communications Inc."
+    ],
+    "MU" : [
+        "Micron Technology, Inc."
+    ],
+    "BBD" : [
+        "Banco Bradesco S.A."
+    ],
+    "PLUG" : [
+        "Plug Power Inc."
+    ],
+    "APHA" : [
+        "Aphria Inc."
+    ],
+    "MVIS" : [
+        "MicroVision, Inc."
+    ],
+    "FB" : [
+        "Facebook, Inc."
+    ],
+    "XOM" : [
+        "Exxon Mobil Corporation"
+    ],
+    "CCIV" : [
+        "Churchill Capital Corp IV"
+    ],
+    "INTC" : [
+        "Intel Corporation"
+    ],
+    "DBX" : [
+        "Dropbox, Inc."
+    ],
+    "WKHS" : [
+        "Workhorse Group Inc."
+    ],
+    "SIRI" : [
+        "Sirius XM Holdings Inc."
+    ],
+    "RLLCF" : [
+        "Rolls-Royce Holdings plc"
+    ],
+    "UAL" : [
+        "United Airlines Holdings, Inc."
+    ],
+    "FCX" : [
+        "Freeport-McMoRan Inc."
+    ],
+    "RIG" : [
+        "Transocean Ltd."
+    ],
+    "DKNG" : [
+        "DraftKings Inc."
+    ],
+    "MRO" : [
+        "Marathon Oil Corporation"
+    ],
+    "CMCSA" : [
+        "Comcast Corporation"
+    ],
+    "BABA" : [
+        "Alibaba Group Holding Limited"
+    ],
+    "BNGO" : [
+        "Bionano Genomics, Inc."
+    ],
+    "KO" : [
+        "The Coca-Cola Company"
+    ],
+    "C" : [
+        "Citigroup Inc."
+    ],
+    "PFE" : [
+        "Pfizer Inc."
+    ],
+    "MRVL" : [
+        "Marvell Technology Group Ltd."
+    ],
+    "OXY" : [
+        "Occidental Petroleum Corporation"
+    ],
+    "ABEV" : [
+        "Ambev S.A."
+    ],
+    "DAL" : [
+        "Delta Air Lines, Inc."
+    ],
+    "DISCA" : [
+        "Discovery, Inc."
+    ],
+    "MARA" : [
+        "Marathon Digital Holdings, Inc."
+    ],
+    "TWTR" : [
+        "Twitter, Inc."
+    ],
+    "CSCO" : [
+        "Cisco Systems, Inc."
+    ],
+    "FINV" : [
+        "FinVolution Group"
+    ],
+    "UBER" : [
+        "Uber Technologies, Inc."
+    ],
+    "CLF" : [
+        "Cleveland-Cliffs Inc."
+    ],
+    "HPE" : [
+        "Hewlett Packard Enterprise Company"
+    ],
+    "HBAN" : [
+        "Huntington Bancshares Incorporated"
+    ],
+    "DIS" : [
+        "The Walt Disney Company"
+    ],
+    "SWN" : [
+        "Southwestern Energy Company"
+    ],
+    "GOEV" : [
+        "Canoo Inc."
+    ],
+    "KGC" : [
+        "Kinross Gold Corporation"
+    ],
+    "EDU" : [
+        "New Oriental Education & Technology Group Inc."
+    ],
+    "JPM" : [
+        "JPMorgan Chase & Co."
+    ],
+    "SLB" : [
+        "Schlumberger Limited"
+    ],
+    "VST" : [
+        "Vistra Corp."
+    ],
+    "ACB" : [
+        "Aurora Cannabis Inc."
+    ],
+    "ZNGA" : [
+        "Zynga Inc."
+    ],
+    "GOLD" : [
+        "Barrick Gold Corporation"
+    ],
+    "FUTU" : [
+        "Futu Holdings Limited"
+    ],
+    "SKLZ" : [
+        "Skillz Inc."
+    ],
+    "KMI" : [
+        "Kinder Morgan, Inc."
+    ],
+    "ET" : [
+        "Energy Transfer LP"
+    ],
+    "LI" : [
+        "Li Auto Inc."
+    ],
+    "GSAT" : [
+        "Globalstar, Inc."
+    ],
+    "ORCL" : [
+        "Oracle Corporation"
+    ],
+    "GILD" : [
+        "Gilead Sciences, Inc."
+    ],
+    "NLY" : [
+        "Annaly Capital Management, Inc."
+    ],
+    "MRK" : [
+        "Merck & Co., Inc."
+    ],
+    "CVX" : [
+        "Chevron Corporation"
+    ],
+    "KR" : [
+        "The Kroger Co."
+    ],
+    "TME" : [
+        "Tencent Music Entertainment Group"
+    ],
+    "RKT" : [
+        "Rocket Companies, Inc."
+    ],
+    "DISCK" : [
+        "Discovery, Inc."
+    ],
+    "AM" : [
+        "Antero Midstream Corporation"
+    ],
+    "SPCE" : [
+        "Virgin Galactic Holdings, Inc."
+    ],
+    "PCG" : [
+        "PG&E Corporation"
+    ],
+    "MT" : [
+        "ArcelorMittal"
+    ],
+    "LUV" : [
+        "Southwest Airlines Co."
+    ],
+    "CX" : [
+        "CEMEX, S.A.B. de C.V."
+    ],
+    "BLDP" : [
+        "Ballard Power Systems Inc."
+    ],
+    "TCOM" : [
+        "Trip.com Group Limited"
+    ],
+    "VEON" : [
+        "VEON Ltd."
+    ],
+    "DVN" : [
+        "Devon Energy Corporation"
+    ],
+    "FSR" : [
+        "Fisker Inc"
+    ],
+    "JBLU" : [
+        "JetBlue Airways Corporation"
+    ],
+    "VICI" : [
+        "VICI Properties Inc."
+    ],
+    "WMT" : [
+        "Walmart Inc."
+    ],
+    "HPQ" : [
+        "HP Inc."
+    ],
+    "AGNC" : [
+        "AGNC Investment Corp."
+    ],
+    "QCOM" : [
+        "QUALCOMM Incorporated"
+    ],
+    "PINS" : [
+        "Pinterest, Inc."
+    ],
+    "MO" : [
+        "Altria Group, Inc."
+    ],
+    "DOCU" : [
+        "DocuSign, Inc."
+    ],
+    "LUMN" : [
+        "Lumen Technologies, Inc."
+    ],
+    "KEY" : [
+        "KeyCorp"
+    ],
+    "KHC" : [
+        "The Kraft Heinz Company"
+    ],
+    "AZN" : [
+        "AstraZeneca PLC"
+    ],
+    "LYG" : [
+        "Lloyds Banking Group plc"
+    ],
+    "NVAX" : [
+        "Novavax, Inc."
+    ],
+    "TSNPD" : [
+        "HUMBL, Inc."
+    ],
+    "SQ" : [
+        "Square, Inc."
+    ],
+    "BP" : [
+        "BP p.l.c."
+    ],
+    "RLX" : [
+        "RLX Technology Inc."
+    ],
+    "MS" : [
+        "Morgan Stanley"
+    ],
+    "IQ" : [
+        "iQIYI, Inc."
+    ],
+    "SAVE" : [
+        "Spirit Airlines, Inc."
+    ],
+    "MDLZ" : [
+        "Mondelez International, Inc."
+    ],
+    "AUY" : [
+        "Yamana Gold Inc."
+    ],
+    "GGB" : [
+        "Gerdau S.A."
+    ],
+    "LYFT" : [
+        "Lyft, Inc."
+    ],
+    "GDRX" : [
+        "GoodRx Holdings, Inc."
+    ],
+    "V" : [
+        "Visa Inc."
+    ],
+    "TSM" : [
+        "Taiwan Semiconductor Manufacturing Company Limited"
+    ],
+    "PTON" : [
+        "Peloton Interactive, Inc."
+    ],
+    "MGM" : [
+        "MGM Resorts International"
+    ],
+    "WMB" : [
+        "The Williams Companies, Inc."
+    ],
+    "RYCEY" : [
+        "Rolls-Royce Holdings plc"
+    ],
+    "BMY" : [
+        "Bristol-Myers Squibb Company"
+    ],
+    "ENB" : [
+        "Enbridge Inc."
+    ],
+    "RF" : [
+        "Regions Financial Corporation"
+    ],
+    "VTRS" : [
+        "Viatris Inc."
+    ],
+    "OPEN" : [
+        "Opendoor Technologies Inc."
+    ],
+    "TIGR" : [
+        "UP Fintech Holding Limited"
+    ],
+    "BKR" : [
+        "Baker Hughes Company"
+    ],
+    "APA" : [
+        "APA Corporation"
+    ],
+    "HST" : [
+        "Host Hotels & Resorts, Inc."
+    ],
+    "BCRX" : [
+        "BioCryst Pharmaceuticals, Inc."
+    ],
+    "PYPL" : [
+        "PayPal Holdings, Inc."
+    ],
+    "PBR-A" : [
+        "Petróleo Brasileiro S.A. - Petrobras"
+    ],
+    "CLDR" : [
+        "Cloudera, Inc."
+    ],
+    "WBA" : [
+        "Walgreens Boots Alliance, Inc."
+    ],
+    "ERIC" : [
+        "Telefonaktiebolaget LM Ericsson (publ)"
+    ],
+    "INFY" : [
+        "Infosys Limited"
+    ],
+    "COTY" : [
+        "Coty Inc."
+    ],
+    "AMAT" : [
+        "Applied Materials, Inc."
+    ],
+    "JWN" : [
+        "Nordstrom, Inc."
+    ],
+    "HAL" : [
+        "Halliburton Company"
+    ],
+    "TRIP" : [
+        "TripAdvisor, Inc."
+    ],
+    "FUBO" : [
+        "fuboTV Inc."
+    ],
+    "AR" : [
+        "Antero Resources Corporation"
+    ],
+    "GLW" : [
+        "Corning Incorporated"
+    ],
+    "UWMC" : [
+        "UWM Holdings Corporation Class"
+    ],
+    "CS" : [
+        "Credit Suisse Group AG"
+    ],
+    "FITB" : [
+        "Fifth Third Bancorp"
+    ],
+    "CNP" : [
+        "CenterPoint Energy, Inc."
+    ],
+    "FHN" : [
+        "First Horizon Corporation"
+    ],
+    "INO" : [
+        "Inovio Pharmaceuticals, Inc."
+    ],
+    "COP" : [
+        "ConocoPhillips"
+    ],
+    "NKLA" : [
+        "Nikola Corporation"
+    ],
+    "CVE" : [
+        "Cenovus Energy Inc."
+    ],
+    "HL" : [
+        "Hecla Mining Company"
+    ],
+    "LB" : [
+        "L Brands, Inc."
+    ],
+    "STNE" : [
+        "StoneCo Ltd."
+    ],
+    "AMRS" : [
+        "Amyris, Inc."
+    ],
+    "PG" : [
+        "The Procter & Gamble Company"
+    ],
+    "CNQ" : [
+        "Canadian Natural Resources Limited"
+    ],
+    "CLOV" : [
+        "Clover Health Investments, Corp."
+    ],
+    "SU" : [
+        "Suncor Energy Inc."
+    ],
+    "CVS" : [
+        "CVS Health Corporation"
+    ],
+    "BCS" : [
+        "Barclays PLC"
+    ],
+    "SRNE" : [
+        "Sorrento Therapeutics, Inc."
+    ],
+    "GPS" : [
+        "The Gap, Inc."
+    ],
+    "KIM" : [
+        "Kimco Realty Corporation"
+    ],
+    "BIDU" : [
+        "Baidu, Inc."
+    ],
+    "QS" : [
+        "QuantumScape Corporation"
+    ],
+    "CLNE" : [
+        "Clean Energy Fuels Corp."
+    ],
+    "CHNG" : [
+        "Change Healthcare Inc."
+    ],
+    "TMUS" : [
+        "T-Mobile US, Inc."
+    ],
+    "CRM" : [
+        "salesforce.com, inc."
+    ],
+    "NEE" : [
+        "NextEra Energy, Inc."
+    ],
+    "NVDA" : [
+        "NVIDIA Corporation"
+    ],
+    "FTI" : [
+        "TechnipFMC plc"
+    ],
+    "RTX" : [
+        "Raytheon Technologies Corporation"
+    ],
+    "PPL" : [
+        "PPL Corporation"
+    ],
+    "NVTA" : [
+        "Invitae Corporation"
+    ],
+    "CFG" : [
+        "Citizens Financial Group, Inc."
+    ],
+    "STLA" : [
+        "Stellantis N.V."
+    ],
+    "GSK" : [
+        "GlaxoSmithKline plc"
+    ],
+    "AI" : [
+        "C3.ai, Inc."
+    ],
+    "CIG" : [
+        "Companhia Energética de Minas Gerais"
+    ],
+    "DDD" : [
+        "3D Systems Corporation"
+    ],
+    "BTG" : [
+        "B2Gold Corp."
+    ],
+    "YSG" : [
+        "Yatsen Holding Limited"
+    ],
+    "NEM" : [
+        "Newmont Corporation"
+    ],
+    "SCHW" : [
+        "The Charles Schwab Corporation"
+    ],
+    "ABNB" : [
+        "Airbnb, Inc."
+    ],
+    "ON" : [
+        "ON Semiconductor Corporation"
+    ],
+    "JMIA" : [
+        "Jumia Technologies AG"
+    ],
+    "SABR" : [
+        "Sabre Corporation"
+    ],
+    "MAC" : [
+        "The Macerich Company"
+    ],
+    "TJX" : [
+        "The TJX Companies, Inc."
+    ],
+    "AFL" : [
+        "Aflac Incorporated"
+    ],
+    "JNJ" : [
+        "Johnson & Johnson"
+    ],
+    "USB" : [
+        "U.S. Bancorp"
+    ],
+    "BHC" : [
+        "Bausch Health Companies Inc."
+    ],
+    "ABBV" : [
+        "AbbVie Inc."
+    ],
+    "JCI" : [
+        "Johnson Controls International plc"
+    ],
+    "STL" : [
+        "Sterling Bancorp"
+    ],
+    "BSX" : [
+        "Boston Scientific Corporation"
+    ],
+    "PEP" : [
+        "PepsiCo, Inc."
+    ],
+    "DISH" : [
+        "DISH Network Corporation"
+    ],
+    "ULTA" : [
+        "Ulta Beauty, Inc."
+    ],
+    "TCEHY" : [
+        "Tencent Holdings Limited"
+    ],
+    "NRZ" : [
+        "New Residential Investment Corp."
+    ],
+    "WISH" : [
+        "ContextLogic Inc."
+    ],
+    "SAN" : [
+        "Banco Santander, S.A."
+    ],
+    "KDP" : [
+        "Keurig Dr Pepper Inc."
+    ],
+    "PDD" : [
+        "Pinduoduo Inc."
+    ],
+    "INVH" : [
+        "Invitation Homes Inc."
+    ],
+    "LAZR" : [
+        "Luminar Technologies, Inc."
+    ],
+    "RUN" : [
+        "Sunrun Inc."
+    ],
+    "MPC" : [
+        "Marathon Petroleum Corporation"
+    ],
+    "EBAY" : [
+        "eBay Inc."
+    ]
+}

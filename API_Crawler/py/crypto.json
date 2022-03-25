@@ -1,0 +1,1072 @@
+{
+    "BTC-USD" : [
+        "Bitcoin",
+        "Bitcoin USD",
+        "BTC",
+        "BTC-USD",
+        "บิตคอยน์",
+        "บิทคอยน์",
+        "บิตคอย",
+        "บิทคอย"
+    ],
+    "ETH-USD" : [
+        "Ethereum",
+        "Ethereum USD",
+        "ETH",
+        "ETH-USD",
+        "อีเธอเรี่ยม",
+        "อีเธอเรียม",
+        "อีเทอเรี่ยม",
+        "อีเทอเรียม"
+    ],
+    "USDT-USD" : [
+        "Tether"
+    ],
+    "DOT1-USD" : [
+        "Polkadot"
+    ],
+    "XRP-USD" : [
+        "XRP"
+    ],
+    "ADA-USD" : [
+        "Cardano"
+    ],
+    "LTC-USD" : [
+        "Litecoin"
+    ],
+    "BCH-USD" : [
+        "BitcoinCash"
+    ],
+    "LINK-USD" : [
+        "Chainlink"
+    ],
+    "BNB-USD" : [
+        "BinanceCoin"
+    ],
+    "XLM-USD" : [
+        "Stellar"
+    ],
+    "USDC-USD" : [
+        "USDcoin"
+    ],
+    "BSV-USD" : [
+        "BitcoinSV"
+    ],
+    "XMR-USD" : [
+        "Monero"
+    ],
+    "EOS-USD" : [
+        "EOS"
+    ],
+    "VET-USD" : [
+        "VeChain"
+    ],
+    "XTZ-USD" : [
+        "Tezos"
+    ],
+    "TRX-USD" : [
+        "TRON"
+    ],
+    "XEM-USD" : [
+        "NEM"
+    ],
+    "DOGE-USD" : [
+        "DOGE"
+    ],
+    "THETA-USD" : [
+        "THETA"
+    ],
+    "LUNA1-USD" : [
+        "Terra"
+    ],
+    "CTC1-USD" : [
+        "Creditcoin"
+    ],
+    "ATOM1-USD" : [
+        "Cosmos"
+    ],
+    "SOL1-USD" : [
+        "Solana"
+    ],
+    "AVAX-USD" : [
+        "Avalanche"
+    ],
+    "MIOTA-USD" : [
+        "IOTA"
+    ],
+    "ALGO-USD" : [
+        "Algorand"
+    ],
+    "NEO-USD" : [
+        "NEO"
+    ],
+    "HBAR-USD" : [
+        "HederaHashgraph"
+    ],
+    "KSM-USD" : [
+        "Kusama"
+    ],
+    "DASH-USD" : [
+        "Dash"
+    ],
+    "EGLD-USD" : [
+        "Elrond"
+    ],
+    "DCR-USD" : [
+        "Decred"
+    ],
+    "TFUEL-USD" : [
+        "ThetaFuel"
+    ],
+    "ZIL-USD" : [
+        "Zilliqa"
+    ],
+    "ZEC-USD" : [
+        "Zcash"
+    ],
+    "CCXX-USD" : [
+        "CounosX"
+    ],
+    "ETC-USD" : [
+        "EthereumClassic"
+    ],
+    "RVN-USD" : [
+        "Ravencoin"
+    ],
+    "DFI-USD" : [
+        "DeFiChain"
+    ],
+    "XWC-USD" : [
+        "WhiteCoin"
+    ],
+    "BNT-USD" : [
+        "Bancor"
+    ],
+    "CEL-USD" : [
+        "Celsius"
+    ],
+    "BAT-USD" : [
+        "BasicAttentionToken"
+    ],
+    "VGX-USD" : [
+        "VoyagerToken"
+    ],
+    "ICX-USD" : [
+        "ICON"
+    ],
+    "WAVES-USD" : [
+        "Waves"
+    ],
+    "ZRX-USD" : [
+        "0x"
+    ],
+    "STX1-USD" : [
+        "Stacks"
+    ],
+    "ONT-USD" : [
+        "Ontology"
+    ],
+    "DGB-USD" : [
+        "DigiByte"
+    ],
+    "OMG-USD" : [
+        "OmiseGO"
+    ],
+    "CELO-USD" : [
+        "Celo"
+    ],
+    "IOST-USD" : [
+        "IOST"
+    ],
+    "NANO-USD" : [
+        "Nano"
+    ],
+    "LRC-USD" : [
+        "Loopring"
+    ],
+    "SC-USD" : [
+        "Siacoin"
+    ],
+    "ONE2-USD" : [
+        "Harmony"
+    ],
+    "BTG-USD" : [
+        "BitcoinGold"
+    ],
+    "QTUM-USD" : [
+        "Qtum"
+    ],
+    "ZEN-USD" : [
+        "Horizen"
+    ],
+    "HNT1-USD" : [
+        "Helium"
+    ],
+    "AR-USD" : [
+        "Arweave USD"
+    ],
+    "IOTX-USD" : [
+        "IoTex"
+    ],
+    "GLM-USD" : [
+        "Golem"
+    ],
+    "XVG-USD" : [
+        "Verge"
+    ],
+    "KNC-USD" : [
+        "KyberNetwork"
+    ],
+    "EWT-USD" : [
+        "EnergyWebToken"
+    ],
+    "XDC-USD" : [
+        "XinFinNetwork"
+    ],
+    "WAXP-USD" : [
+        "WAX"
+    ],
+    "LSK-USD" : [
+        "Lisk"
+    ],
+    "CKB-USD" : [
+        "NervosNetwork"
+    ],
+    "SNT-USD" : [
+        "Status"
+    ],
+    "REP-USD" : [
+        "Augur"
+    ],
+    "SRM-USD" : [
+        "Serum"
+    ],
+    "CVC-USD" : [
+        "Civic"
+    ],
+    "ETN-USD" : [
+        "Electroneum"
+    ],
+    "MAID-USD" : [
+        "MaidSafeCoin"
+    ],
+    "ARDR-USD" : [
+        "Ardor"
+    ],
+    "BTS-USD" : [
+        "BitShares"
+    ],
+    "GNO-USD" : [
+        "Gnosis"
+    ],
+    "COTI-USD" : [
+        "COTI"
+    ],
+    "ANT-USD" : [
+        "Aragon"
+    ],
+    "BCD-USD" : [
+        "BitcoinDiamond"
+    ],
+    "FUN-USD" : [
+        "FunFair"
+    ],
+    "STORJ-USD" : [
+        "Storj"
+    ],
+    "MWC-USD" : [
+        "MimbleWimbleCoin"
+    ],
+    "ARK-USD" : [
+        "Ark"
+    ],
+    "XHV-USD" : [
+        "HavenProtocol"
+    ],
+    "STRAX-USD" : [
+        "Stratis"
+    ],
+    "RLC-USD" : [
+        "iExecRLC"
+    ],
+    "TOMO-USD" : [
+        "TomoChain"
+    ],
+    "DNT-USD" : [
+        "district0x"
+    ],
+    "KMD-USD" : [
+        "Komodo"
+    ],
+    "WAN-USD" : [
+        "Wanchain"
+    ],
+    "STEEM-USD" : [
+        "Steem"
+    ],
+    "PHA-USD" : [
+        "PhalaNetwork"
+    ],
+    "KIN-USD" : [
+        "Kin"
+    ],
+    "HIVE-USD" : [
+        "Hive"
+    ],
+    "VLX-USD" : [
+        "Velas"
+    ],
+    "IRIS-USD" : [
+        "IRISnet"
+    ],
+    "NYE-USD" : [
+        "NewYorkExchange"
+    ],
+    "SYS-USD" : [
+        "Syscoin"
+    ],
+    "PPT-USD" : [
+        "Populous"
+    ],
+    "AION-USD" : [
+        "Aion"
+    ],
+    "HNC-USD" : [
+        "Helleniccoin"
+    ],
+    "META-USD" : [
+        "Metadium"
+    ],
+    "DIVI-USD" : [
+        "Divi"
+    ],
+    "ABBC-USD" : [
+        "ABBCCoin"
+    ],
+    "WOZX-USD" : [
+        "EFFORCE"
+    ],
+    "BTM-USD" : [
+        "Bytom"
+    ],
+    "GAS-USD" : [
+        "Gas"
+    ],
+    "SAPP-USD" : [
+        "Sapphire"
+    ],
+    "MONA-USD" : [
+        "MonaCoin"
+    ],
+    "ADX-USD" : [
+        "AdEx"
+    ],
+    "GRN-USD" : [
+        "GreenPower"
+    ],
+    "TT-USD" : [
+        "ThunderToken"
+    ],
+    "HNS-USD" : [
+        "Handshake"
+    ],
+    "RDD-USD" : [
+        "ReddCoin"
+    ],
+    "LBC-USD" : [
+        "LBRYCredits"
+    ],
+    "MED-USD" : [
+        "MediBlocQRC20"
+    ],
+    "ATRI-USD" : [
+        "AtariToken"
+    ],
+    "NKN-USD" : [
+        "NKN"
+    ],
+    "XNC-USD" : [
+        "XeniosCoin"
+    ],
+    "MASS-USD" : [
+        "Massnet"
+    ],
+    "FIRO-USD" : [
+        "Firo"
+    ],
+    "WICC-USD" : [
+        "WaykiChain"
+    ],
+    "MTL-USD" : [
+        "Metal"
+    ],
+    "JUL-USD" : [
+        "Joule"
+    ],
+    "NRG-USD" : [
+        "Energi"
+    ],
+    "WTC-USD" : [
+        "Waltonchain"
+    ],
+    "PAC-USD" : [
+        "PACGlobal"
+    ],
+    "ZNN-USD" : [
+        "Zenon"
+    ],
+    "VITAE-USD" : [
+        "Vitae"
+    ],
+    "NXS-USD" : [
+        "Nexus"
+    ],
+    "PCX-USD" : [
+        "ChainX"
+    ],
+    "BCN-USD" : [
+        "Bytecoin"
+    ],
+    "NULS-USD" : [
+        "NULS"
+    ],
+    "BDX-USD" : [
+        "Beldex"
+    ],
+    "BEAM-USD" : [
+        "Beam"
+    ],
+    "AXEL-USD" : [
+        "AXEL"
+    ],
+    "CNX-USD" : [
+        "Cryptonex"
+    ],
+    "GNT-USD" : [
+        "Golem"
+    ],
+    "REV-USD" : [
+        "RChain"
+    ],
+    "MLN-USD" : [
+        "Melon"
+    ],
+    "EMC2-USD" : [
+        "Einsteinium"
+    ],
+    "PIVX-USD" : [
+        "PIVX"
+    ],
+    "FIO-USD" : [
+        "FIOProtocol"
+    ],
+    "ELA-USD" : [
+        "Elastos"
+    ],
+    "DAG-USD" : [
+        "Constellation"
+    ],
+    "LOKI-USD" : [
+        "Loki"
+    ],
+    "CTXC-USD" : [
+        "Cortex"
+    ],
+    "NIM-USD" : [
+        "Nimiq"
+    ],
+    "ERG-USD" : [
+        "Ergo"
+    ],
+    "ARRR-USD" : [
+        "PirateChain"
+    ],
+    "VSYS-USD" : [
+        "VSystems"
+    ],
+    "AE-USD" : [
+        "Aeternity"
+    ],
+    "CRU-USD" : [
+        "Crust"
+    ],
+    "FSN-USD" : [
+        "Fusion"
+    ],
+    "GRS-USD" : [
+        "Groestlcoin"
+    ],
+    "XLT-USD" : [
+        "Nexalt"
+    ],
+    "MCO-USD" : [
+        "MCO"
+    ],
+    "AMB-USD" : [
+        "Ambrosus"
+    ],
+    "DMCH-USD" : [
+        "DARMACash"
+    ],
+    "XSN-USD" : [
+        "Stakenet"
+    ],
+    "XZC-USD" : [
+        "Zcoin"
+    ],
+    "HC-USD" : [
+        "HyperCash"
+    ],
+    "GXC-USD" : [
+        "GXChain"
+    ],
+    "APL-USD" : [
+        "ApolloCurrency"
+    ],
+    "MARO-USD" : [
+        "Maro"
+    ],
+    "GO-USD" : [
+        "GoChain"
+    ],
+    "VITE-USD" : [
+        "VITE"
+    ],
+    "VERI-USD" : [
+        "Veritaseum"
+    ],
+    "SBD-USD" : [
+        "SteemDollars"
+    ],
+    "KRT-USD" : [
+        "TerraKRW"
+    ],
+    "SKY-USD" : [
+        "Skycoin"
+    ],
+    "BIP-USD" : [
+        "MinterNetwork"
+    ],
+    "NEBL-USD" : [
+        "Neblio"
+    ],
+    "STRAT-USD" : [
+        "Stratis"
+    ],
+    "NAS-USD" : [
+        "Nebulas"
+    ],
+    "KDA-USD" : [
+        "Kadena"
+    ],
+    "GRIN-USD" : [
+        "Grin"
+    ],
+    "DGD-USD" : [
+        "DigixDAO"
+    ],
+    "VTC-USD" : [
+        "Vertcoin"
+    ],
+    "VRA-USD" : [
+        "Verasity"
+    ],
+    "SERO-USD" : [
+        "SuperZero"
+    ],
+    "NAV-USD" : [
+        "NavCoin"
+    ],
+    "NXT-USD" : [
+        "Nxt"
+    ],
+    "PAI-USD" : [
+        "ProjectPai"
+    ],
+    "ADK-USD" : [
+        "AidosKuneen"
+    ],
+    "RBTC-USD" : [
+        "RSKSmartBitcoin"
+    ],
+    "CSC-USD" : [
+        "CasinoCoin"
+    ],
+    "OBSR-USD" : [
+        "Observer"
+    ],
+    "BLOCK-USD" : [
+        "Blocknet"
+    ],
+    "BTC2-USD" : [
+        "Bitcoin2"
+    ],
+    "CUT-USD" : [
+        "CUTcoin"
+    ],
+    "QASH-USD" : [
+        "QASH"
+    ],
+    "SFT-USD" : [
+        "SafexToken"
+    ],
+    "GBYTE-USD" : [
+        "Obyte"
+    ],
+    "DNA1-USD" : [
+        "MetaverseDualchainNetworkArchitecture"
+    ],
+    "GLEEC-USD" : [
+        "Gleec"
+    ],
+    "POA-USD" : [
+        "POANetwork"
+    ],
+    "LYNX-USD" : [
+        "Lynx"
+    ],
+    "PAY-USD" : [
+        "TenX"
+    ],
+    "QRL-USD" : [
+        "QuantumResistantLedger"
+    ],
+    "CMT1-USD" : [
+        "CyberMiles"
+    ],
+    "DERO-USD" : [
+        "Dero"
+    ],
+    "SALT-USD" : [
+        "SALT"
+    ],
+    "NMC-USD" : [
+        "Namecoin"
+    ],
+    "PI-USD" : [
+        "PCHAIN"
+    ],
+    "BPS-USD" : [
+        "BitcoinPoS"
+    ],
+    "DYN-USD" : [
+        "Dynamic"
+    ],
+    "ZANO-USD" : [
+        "Zano"
+    ],
+    "ETP-USD" : [
+        "MetaverseETP"
+    ],
+    "TRUE-USD" : [
+        "TrueChain"
+    ],
+    "FCT-USD" : [
+        "Factom"
+    ],
+    "UBQ-USD" : [
+        "Ubiq"
+    ],
+    "AYA-USD" : [
+        "Aryacoin"
+    ],
+    "BHD-USD" : [
+        "BitcoinHD"
+    ],
+    "YOYOW-USD" : [
+        "YOYOW"
+    ],
+    "PZM-USD" : [
+        "PRIZM"
+    ],
+    "VIA-USD" : [
+        "Viacoin"
+    ],
+    "CET-USD" : [
+        "CoinExToken"
+    ],
+    "GAME-USD" : [
+        "GameCredits"
+    ],
+    "NVT-USD" : [
+        "NerveNetwork"
+    ],
+    "SNGLS-USD" : [
+        "SingularDTV"
+    ],
+    "ACT-USD" : [
+        "Achain"
+    ],
+    "PHR-USD" : [
+        "Phore"
+    ],
+    "PPC-USD" : [
+        "Peercoin"
+    ],
+    "RINGX-USD" : [
+        "RINGXPLATFORM"
+    ],
+    "SNM-USD" : [
+        "SONM"
+    ],
+    "BHP-USD" : [
+        "BHPCoin"
+    ],
+    "MHC-USD" : [
+        "MetaHash"
+    ],
+    "ZYN-USD" : [
+        "Zynecoin"
+    ],
+    "PART-USD" : [
+        "Particl"
+    ],
+    "ACH-USD" : [
+        "AlchemyPay"
+    ],
+    "XDN-USD" : [
+        "DigitalNote"
+    ],
+    "XMY-USD" : [
+        "Myriad"
+    ],
+    "DCN-USD" : [
+        "Dentacoin"
+    ],
+    "NIX-USD" : [
+        "NIX"
+    ],
+    "PLC-USD" : [
+        "PLATINCOIN"
+    ],
+    "FTC-USD" : [
+        "Feathercoin"
+    ],
+    "CTC-USD" : [
+        "CreditTagChain"
+    ],
+    "FLO-USD" : [
+        "FLO"
+    ],
+    "HPB-USD" : [
+        "HighPerformanceBlockchain"
+    ],
+    "BURST-USD" : [
+        "Burst"
+    ],
+    "NLG-USD" : [
+        "Gulden"
+    ],
+    "FO-USD" : [
+        "FIBOS"
+    ],
+    "TERA-USD" : [
+        "TERA"
+    ],
+    "AEON-USD" : [
+        "Aeon"
+    ],
+    "ZEL-USD" : [
+        "ZelCash"
+    ],
+    "SMART-USD" : [
+        "SmartCash"
+    ],
+    "VAL1-USD" : [
+        "Validity"
+    ],
+    "XMC-USD" : [
+        "MoneroClassic"
+    ],
+    "SCP-USD" : [
+        "ScPrime"
+    ],
+    "XST-USD" : [
+        "Stealth"
+    ],
+    "MAN-USD" : [
+        "MatrixAINetwork"
+    ],
+    "HTDF-USD" : [
+        "OrientWalt"
+    ],
+    "LCC-USD" : [
+        "LitecoinCash"
+    ],
+    "TAAS-USD" : [
+        "TaaS"
+    ],
+    "MOON-USD" : [
+        "Mooncoin"
+    ],
+    "WINGS-USD" : [
+        "Wings"
+    ],
+    "ILC-USD" : [
+        "ILCoin"
+    ],
+    "IDNA-USD" : [
+        "Idena"
+    ],
+    "INSTAR-USD" : [
+        "InsightsNetwork"
+    ],
+    "CHI-USD" : [
+        "Xaya"
+    ],
+    "CRW-USD" : [
+        "Crown"
+    ],
+    "POLIS-USD" : [
+        "Polis"
+    ],
+    "GRC-USD" : [
+        "GridCoin"
+    ],
+    "DTEP-USD" : [
+        "DECOIN"
+    ],
+    "OTO-USD" : [
+        "OTOCASH"
+    ],
+    "BLK-USD" : [
+        "BlackCoin"
+    ],
+    "NYZO-USD" : [
+        "Nyzo"
+    ],
+    "XRC-USD" : [
+        "BitcoinRhodium"
+    ],
+    "MIR-USD" : [
+        "MIRCOIN"
+    ],
+    "VEX-USD" : [
+        "Vexanium"
+    ],
+    "HTML-USD" : [
+        "HTMLCOIN"
+    ],
+    "INT-USD" : [
+        "InternetNodeToken"
+    ],
+    "BPC-USD" : [
+        "BackPackerCoin"
+    ],
+    "FAIR-USD" : [
+        "FairCoin"
+    ],
+    "XUC-USD" : [
+        "ExchangeUnion"
+    ],
+    "EDC-USD" : [
+        "EDCBlockchain"
+    ],
+    "COMP1-USD" : [
+        "CompoundCoin"
+    ],
+    "MCAP-USD" : [
+        "MCAP"
+    ],
+    "ATB-USD" : [
+        "ATBCoin"
+    ],
+    "OURO-USD" : [
+        "Ouroboros"
+    ],
+    "FRST-USD" : [
+        "FirstCoin"
+    ],
+    "DEV-USD" : [
+        "DeviantCoin USD"
+    ],
+    "NPC-USD" : [
+        "NPCoin"
+    ],
+    "EDG-USD" : [
+        "Edgeless"
+    ],
+    "HSS-USD" : [
+        "Hashshare"
+    ],
+    "XNS1-USD" : [
+        "Insolar"
+    ],
+    "BCA-USD" : [
+        "BitcoinAtom"
+    ],
+    "ECA-USD" : [
+        "Electra"
+    ],
+    "ALIAS-USD" : [
+        "Alias"
+    ],
+    "SUB-USD" : [
+        "Substratum"
+    ],
+    "YEP-USD" : [
+        "YEPCOIN"
+    ],
+    "BST-USD" : [
+        "BlockStamp"
+    ],
+    "VBK-USD" : [
+        "VeriBlock"
+    ],
+    "XLQ-USD" : [
+        "ALQO"
+    ],
+    "DMD-USD" : [
+        "Diamond"
+    ],
+    "XCP-USD" : [
+        "Counterparty"
+    ],
+    "BRC-USD" : [
+        "BaerChain"
+    ],
+    "LRG-USD" : [
+        "LargoCoin"
+    ],
+    "BTX-USD" : [
+        "Bitcore"
+    ],
+    "DCY-USD" : [
+        "Dinastycoin"
+    ],
+    "SHIFT-USD" : [
+        "Shift"
+    ],
+    "SLS-USD" : [
+        "SaluS"
+    ],
+    "MIDAS-USD" : [
+        "Midas"
+    ],
+    "MTC2-USD" : [
+        "Metacoin"
+    ],
+    "JDC-USD" : [
+        "JDCoin"
+    ],
+    "CCA-USD" : [
+        "CounosCoin"
+    ],
+    "RSTR-USD" : [
+        "Ondori"
+    ],
+    "MINT-USD" : [
+        "MintCoin"
+    ],
+    "DUN-USD" : [
+        "DuneNetwork"
+    ],
+    "TUBE-USD" : [
+        "BitTube"
+    ],
+    "SCC3-USD" : [
+        "StakeCubeCoin"
+    ],
+    "WGR-USD" : [
+        "Wagerr"
+    ],
+    "MRX-USD" : [
+        "MetrixCoin"
+    ],
+    "AIB-USD" : [
+        "AdvancedInternetBlocks"
+    ],
+    "RBY-USD" : [
+        "Rubycoin"
+    ],
+    "MOAC-USD" : [
+        "MOAC"
+    ],
+    "COLX-USD" : [
+        "ColossusXT"
+    ],
+    "CLAM-USD" : [
+        "Clams"
+    ],
+    "FLASH-USD" : [
+        "Flash"
+    ],
+    "LKK-USD" : [
+        "Lykke"
+    ],
+    "NLC2-USD" : [
+        "NoLimitCoin"
+    ],
+    "ECC-USD" : [
+        "ECC"
+    ],
+    "UNO-USD" : [
+        "Unobtanium"
+    ],
+    "BONO-USD" : [
+        "Bonorum"
+    ],
+    "DDK-USD" : [
+        "DDKoin"
+    ],
+    "GCC1-USD" : [
+        "GlobalCryptocurrency"
+    ],
+    "CPS-USD" : [
+        "Capricoin"
+    ],
+    "XBY-USD" : [
+        "XTRABYTES"
+    ],
+    "MGO-USD" : [
+        "MobileGo"
+    ],
+    "QRK-USD" : [
+        "Quark"
+    ],
+    "SONO1-USD" : [
+        "SonoCoin"
+    ],
+    "ERK-USD" : [
+        "EurekaCoin"
+    ],
+    "XAS-USD" : [
+        "Asch"
+    ],
+    "IOC-USD" : [
+        "IOCoin"
+    ],
+    "OWC-USD" : [
+        "ODUWA"
+    ],
+    "USNBT-USD" : [
+        "NuBits"
+    ],
+    "ZVC-USD" : [
+        "ZVCHAIN"
+    ],
+    "GHOST-USD" : [
+        "GHOSTPRISM"
+    ],
+    "HYC-USD" : [
+        "HYCON"
+    ],
+    "CURE-USD" : [
+        "Curecoin"
+    ],
+    "VIN-USD" : [
+        "VINchain"
+    ],
+    "RADS-USD" : [
+        "Radium"
+    ],
+    "GHOST1-USD" : [
+        "GHOST"
+    ],
+    "DIME-USD" : [
+        "Dimecoin"
+    ],
+    "PMEER-USD" : [
+        "Pmeer"
+    ]
+}
