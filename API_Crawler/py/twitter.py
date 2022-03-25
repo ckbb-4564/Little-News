@@ -27,10 +27,10 @@ class TwitterAPI(object):
 
     # Setup API
     def __init__(self,lang="en"):
-        self.api_key = "5T7IYOaj7oUsS1fzbp2bNA0To"
-        self.api_key_secret = "eN838huSCS9PV9JztMzeoHLfDXjtUMNiIGyDZ54TVRUbZb3KTP"
-        self.access_token = "818159822696628224-AdLCKDXhsFpdqrkgLfWbtMv40fDhMkk"
-        self.access_token_secret = "A6mh0Yl147pVoY6yJgp9uKr6lCAEecSTFpWKxXnB6LYZz"
+        self.api_key = "MY_API_KEY"
+        self.api_key_secret = "MY_API_KEY_SECRET"
+        self.access_token = "MY_ACCESS_TOKEN"
+        self.access_token_secret = "MY_ACCESS_TOKEN_SECRET"
         self.auth = tweepy.OAuthHandler(self.api_key, self.api_key_secret)
         self.auth.set_access_token(self.access_token, self.access_token_secret)
         self.api = tweepy.API(self.auth)
